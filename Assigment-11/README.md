@@ -18,7 +18,7 @@ The screenshot below shows **both Docker images** created successfully for:
 ## 📦 Docker Containers
 The screenshot below shows **both Docker containers running successfully**:
 
-![Docker Containers](docker-containers.png)
+<img width="1600" height="900" alt="di" src="https://github.com/user-attachments/assets/b38668c8-47f2-4720-8770-aecec08ae1e3" />
 
 ---
 

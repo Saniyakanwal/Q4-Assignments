@@ -13,12 +13,13 @@ The screenshot below shows **both Docker images** created successfully for:
 - Next.js application
 - FastAPI application
 
-<img width="1600" height="900" alt="dc" src="https://github.com/user-attachments/assets/251ac379-3a43-43c9-bbef-30254fd46f34" />
+<img width="1600" height="900" alt="di" src="https://github.com/user-attachments/assets/b38668c8-47f2-4720-8770-aecec08ae1e3" />
+
 
 ## 📦 Docker Containers
 The screenshot below shows **both Docker containers running successfully**:
 
-<img width="1600" height="900" alt="di" src="https://github.com/user-attachments/assets/b38668c8-47f2-4720-8770-aecec08ae1e3" />
+<img width="1600" height="900" alt="dc" src="https://github.com/user-attachments/assets/251ac379-3a43-43c9-bbef-30254fd46f34" />
 
 ---
 
